@@ -3,8 +3,8 @@
         <span v-text="$t('nav.home')"></span>
         <span>{{$t('nav.home')}}</span>
         <p>
-            <button @click="changeType()">切换语言</button>
-<!--            <button @click.native="changeType('en')">切换英文</button>-->
+            <el-button type="primary" @click="changeType()">切换语言</el-button>
+            <button type="primary">aa</button>
         </p>
     </div>
 </template>

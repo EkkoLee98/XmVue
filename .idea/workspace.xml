@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f63b715-a1af-4cb1-a537-da2927ebf16b" name="Default Changelist" comment="" />
+    <list default="true" id="0f63b715-a1af-4cb1-a537-da2927ebf16b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/i18n/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/I18n.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/I18n.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Page1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Page1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -15,7 +31,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/i18n/config" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -24,6 +40,9 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="D:\WebStorm 2018.3.3\demo\xvue\node_modules\prettier" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebStorm 2018.3.3\demo\xvue\src\i18n\config" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WebStorm 2018.3.3\demo\xvue\src\pages" />
     </key>
@@ -51,6 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1569244681317</updated>
       <workItem from="1569244682395" duration="3518000" />
+      <workItem from="1569248863133" duration="1850000" />
+      <workItem from="1569293854820" duration="2415000" />
     </task>
     <servers />
   </component>
@@ -62,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
