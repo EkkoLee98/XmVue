@@ -22,7 +22,7 @@ axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest'
 //     }
 //    // silentTranslationWarn: true,
 // })
-Vue.use(axios);
+// Vue.use(axios);
 new Vue({
     render:(h)=>h(App),
     store,
